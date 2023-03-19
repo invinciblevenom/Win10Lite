@@ -1,0 +1,25 @@
+; Black Viper's Windows 10 Service Configuration
+; "Safe"
+SEMgrSvc
+PhoneSvc
+MapsBroker
+PeerDistSvc
+HvHost
+lfsvc
+CscService
+vmickvpexchange
+vmicguestinterface
+vmicshutdown
+vmicheartbeat
+vmicrdv
+vmictimesync
+vmicvmsession
+vmicvss
+SmsRouter
+RpcLocator
+RetailDemo
+SharedAccess
+SNMPTRAP
+WMPNetworkSvc
+WinRM
+DiagTrack

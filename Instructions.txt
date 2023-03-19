@@ -1,0 +1,19 @@
+Follow these steps:
+
+Important!!! Disconnect from Internet because setup will run updates immediately!
+
+1. Put this folder with files on your Windows 10 Setup USB/Disc (or anywhere else you can access during early windows setup; caution you have no explorer only command prompt during setup!).
+
+2. Do a clean installation, reset or update of Windows 10 and wait until the Windows Setup ask you for input. Don't enter anything.
+
+3. Now press Shift+F10 on your keyboard. A a command prompt should open.
+   If you can't find your usb drive letter, type the following command
+   
+    *wmic logicaldisk get deviceid, volumename, description*
+   
+   Switch to you Windows 10 Setup USB/Disc and change to this folder.
+   Example: *cd /D E:\Win10Lite*
+
+4. Run file rmApps.cmd and answer the questions for your needs.
+
+5. Close the command prompt and finish Windows 10 Setup.

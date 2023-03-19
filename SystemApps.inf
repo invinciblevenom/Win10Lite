@@ -1,0 +1,27 @@
+; This system apps won't be deleted
+InputApp
+Microsoft.AAD.BrokerPlugin
+Microsoft.AccountsControl
+Microsoft.BioEnrollment
+microsoft.creddialoghost
+Microsoft.LockApp
+Microsoft.MicrosoftEdge
+Microsoft.PPIProjection
+Microsoft.Windows.AddSuggestedFoldersToLibraryDialog
+Microsoft.Windows.AppRep.ChxApp
+Microsoft.Windows.AppResolverUX
+Microsoft.Windows.AssignedAccessLockApp
+Microsoft.Windows.CloudExperienceHost
+Microsoft.Windows.ContentDeliveryManager
+Microsoft.Windows.FileExplorer
+Microsoft.Windows.FilePicker
+Microsoft.Windows.HolographicFirstRun
+Microsoft.Windows.OOBENetworkCaptivePortal
+Microsoft.Windows.OOBENetworkConnectionFlow
+Microsoft.Windows.PinningConfirmationDialog
+Microsoft.Windows.SecHealthUI
+Microsoft.Windows.SecondaryTileExperience
+Microsoft.Windows.SecureAssessmentBrowser
+Microsoft.XboxGameCallableUI
+ParentalControls
+ShellExperienceHost
